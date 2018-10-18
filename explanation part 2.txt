@@ -1,0 +1,1 @@
+There are many different types of text compression algorithms out there! Huffman encoding is a great one to start out with because it is easy to visualize and because it is lossless (if converted back to its original form, no information would be lost) due to its design in that it deals with the unique frequencies of each character in the file.

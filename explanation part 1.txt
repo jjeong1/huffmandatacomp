@@ -1,0 +1,3 @@
+Huffman encoding is a type of text compression. In computer language, each ASCII character is composed of a unique 8-bit long binary code. For example, the capital letter "A" is 0100 0001. The lower case "a" is 0110 0001. 
+
+But this 8-bit method is not the most efficient way to store text. Some text files may only contain 20 unique characters - for each of those 20 characters to be encoded in 8 bits result in unnecessarily bulky files. A way to reduce the amount of information space needed to recreate text (uniquely to a text file) is the Huffman Tree method.

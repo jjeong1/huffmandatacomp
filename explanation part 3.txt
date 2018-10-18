@@ -1,0 +1,4 @@
+The character with the largest frequency has the shortest code, and thecharacter with the smallest frequency has the longest code. This is then very efficient, especially more so with text files with a large disparity between the frequencies of its characters. The codes are composed of ones and zeroes that point to certain directions, zero for left, and one for right. The computer can then navigate the tree (which really looks more like an upside down tree) according to the directions until it lands on a letter. This eliminates the need for a consistent length for each character's code.
+
+Try out a visualization or open your own text file from the options in the menu!
+
